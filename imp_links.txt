@@ -36,3 +36,8 @@ https://www.learnpython.org/https://www.learnpython.org/
 
 
 https://www.youtube.com/watch?v=Z3S2gMBUkBo
+
+
+gitlab
+
+https://medium.com/@teeks99/continuous-integration-with-jenkins-and-gitlab-fa770c62e88a
